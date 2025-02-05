@@ -19,7 +19,7 @@ ________________________________________________________
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFB11B?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!-- ![Vaibavalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaibavalakshmi&show_icons=true&theme=radical) -->
-Let's Connect
+
 **Contact**
 
 📧 **Email**: [mvaibavalakshmi@gmail.com](mailto:mvaibavalakshmi@gmail.com)
